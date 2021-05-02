@@ -1,0 +1,23 @@
+{
+  "name": "spotify-app",
+  "version": "0.0.1",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque ultricies scelerisque. Phasellus risus mi, molestie sed dignissim et, pellentesque ut est. Etiam ut lacinia odio. Etiam finibus tortor arcu, sed pellentesque purus pharetra sed. Maecenas auctor, nisi id convallis interdum, purus neque iaculis mi, in faucibus velit magna id orci. Suspendisse sit amet facilisis nulla. Sed eu mauris neque. Vivamus sit amet fringilla metus, quis malesuada est. Duis sed posuere nisl. In convallis libero neque, vel maximus purus rhoncus ut. Quisque tempor in ex eu tristique. Vestibulum diam enim, posuere vitae cursus eget, suscipit in odio. Quisque molestie vulputate sem, pulvinar fringilla felis vestibulum nec. Fusce nisl est, feugiat a mauris eu, pulvinar maximus nunc. Nullam volutpat et nisi non congue. Nulla rutrum pulvinar odio, vitae vehicula augue rhoncus id.",
+  "main": "src/server.js",
+  "author": "Marc Dahan",
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "1.19.0",
+    "browser-sync": "^2.26.13",
+    "cssnano": "^4.1.10",
+    "express": "4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^1.4.0",
+    "postcss": "^8.1.2"
+  },
+  "scripts": {
+    "test": "node app"
+  }
+}

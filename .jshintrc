@@ -1,0 +1,25 @@
+{
+    "browser": true,
+    "node": true,
+    "curly": true,
+    "eqeqeq": true,
+    "es3": true,
+    "newcap": true,
+    "noarg": true,
+    "nonew": true,
+    "quotmark": "single",
+    "strict": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "module": true,
+	    "escape": true,
+        "document" :true,
+        "require": true,
+        "console": true,
+        "$": true,
+        "jQuery": true,
+        "JSON": true
+    }
+}
